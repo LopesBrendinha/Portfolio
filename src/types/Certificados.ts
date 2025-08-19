@@ -3,7 +3,7 @@ export interface Certificados{
     titulo: string;
     categoria: "Hard Skill" | "Soft Skill" | "Palestra";
     descricaoCurta: string;
-    imagens: string;
+    imagem: string;
 
 
 }

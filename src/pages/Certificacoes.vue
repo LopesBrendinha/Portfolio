@@ -70,7 +70,7 @@ const abrirModal = (cert: Certificados) => {
 const fecharModal = () => modalAberto.value = false
 
 onMounted(() => {
-  certificados.value = certificadosJson
+  certificados.value = certificadosJson as Certificados[]
   certificadosFiltrados.value = certificados.value
   categoriasUnicas.value = [...new Set(certificados.value.map(c => c.categoria))]
 })
