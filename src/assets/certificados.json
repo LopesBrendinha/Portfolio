@@ -1,0 +1,124 @@
+[
+    {
+      
+    "id": 1,
+    "titulo": "Kode Start",
+    "categoria": "Hard Skill",
+    "descricaoCurta": "WorkShop de flutter promovido pela Kobe Apps",
+    "imagem":  "./assets/certificados/img1.png"
+    },
+    {
+      
+    "id": 2,
+    "titulo": "XXXI EAIC - OUVINTE",
+    "categoria": "Palestra",
+    "descricaoCurta": "XXXI EAIC – ENCONTRO ANUAL DE INICIAÇÃO CIENTÍFICA - OUVINTE",
+    "imagem":  "./assets/certificados/img2.png"
+    },
+    {
+      
+    "id": 3,
+    "titulo": "Roda de Conversa - MULHERES QUE SOMAM",
+    "categoria": "Palestra",
+    "descricaoCurta": "Mulheres da Ciência - Reflexões sobre representatividade e barreiras de acesso",
+    "imagem":  "./assets/certificados/img3.png"
+    },
+    {
+      
+    "id": 4,
+    "titulo": "Minicurso 2 Introdução a Ruby",
+    "categoria": "Hard Skill",
+    "descricaoCurta": "IX JAI/UNICENTRO: IX Jornada de Atualização em Informática da UNICENTRO",
+    "imagem":  "./assets/certificados/img4.png"
+    },
+    {
+      
+    "id": 5,
+    "titulo": "Oratória de alta performance",
+    "categoria": "Soft Skill",
+    "descricaoCurta": "curso Oratória de alta performance - Kultive",
+    "imagem":  "./assets/certificados/img5.png"
+    },
+    {
+      
+    "id": 6,
+    "titulo": "INTRODUÇÃO A UNITY 2D:",
+    "categoria": "Hard Skill",
+    "descricaoCurta": "INTRODUÇÃO A UNITY 2D: CRIANDO UM QUIZ GAME",
+    "imagem":  "./assets/certificados/img6.png"
+    },
+    {
+      
+    "id": 7,
+    "titulo": "XXXIII EAIC - APRESENTADOR",
+    "categoria": "Palestra",
+    "descricaoCurta": "ESTUDO E IMPLEMENTAÇÃO DE REDE NEURAL ARTIFICIAL APLICADA EM PROBLEMA DE CATEGORIZAÇÃO",
+    "imagem":  "./assets/certificados/img7.png"
+    },
+    {
+      
+    "id": 8,
+    "titulo": "SAP PROFESSIONAL 5.0",
+    "categoria": "Hard Skill",
+    "descricaoCurta": "SAP PROFESSIONAL 5.0 envolvendo os principais processos do ERP SAP R/3 nos módulos de MM, PP, SD, FI/CO, PM e QM",
+    "imagem":  "./assets/certificados/img8.png"
+    },
+    {
+      
+    "id": 9,
+    "titulo": "SAP TO WORK",
+    "categoria": "Hard Skill",
+    "descricaoCurta": "SAP TO WORK promovida pela AC International Group e Universidade estadual do Centro Oeste",
+    "imagem":  "./assets/certificados/img9.png"
+    },
+    {
+      
+    "id": 10,
+    "titulo": "HACKAFOOD UNICENTRO",
+    "categoria": "Soft Skill",
+    "descricaoCurta": "HACKAFOOD UNICENTRO promovida pela Universidade estadual do Centro Oeste",
+    "imagem":  "./assets/certificados/img10.png"
+    },
+    {
+      
+    "id":11,
+    "titulo": "SIEPE 2023 - OUVINTE",
+    "categoria": "Palestra",
+    "descricaoCurta": "Semana de Integração Ensino, Pesquisa e Extensão - SIEPE 2023",
+    "imagem":  "./assets/certificados/img11.png"
+    },
+    {
+      
+    "id": 12,
+    "titulo": "SEET/G: Planejamento Estratégico Pessoal",
+    "categoria": "Soft Skill",
+    "descricaoCurta": "Ofertado na Semana de Integração Ensino, Pesquisa e Extensão",
+    "imagem":  "./assets/certificados/img12.png"
+    },
+    {
+      
+    "id": 13,
+    "titulo": "SEET/G­DEMAT: Introdução ao Arduino (Noções de Robótica)",
+    "categoria": "Hard Skill",
+    "descricaoCurta": "Ofertado na Semana de Integração Ensino, Pesquisa e Extensão",
+    "imagem":  "./assets/certificados/img13.png"
+    },
+    {
+      
+    "id": 14,
+    "titulo": "SEET/G­DECOMP/G: I Hackaton ODS Unicentro Parte I",
+    "categoria": "Hard Skill",
+    "descricaoCurta": "Ofertado na Semana de Integração Ensino, Pesquisa e Extensão",
+    "imagem":  "./assets/certificados/img14.png"
+    },
+    {
+      
+    "id": 15,
+    "titulo": "ESTUDO E IMPLEMENTAÇÃO DE REDE NEURAL ARTIFICIAL APLICADA EM PROBLEMA DE CATEGORIZAÇÃO",
+    "categoria": "Hard Skill",
+    "descricaoCurta": "PROGRAMA INSTITUCIONAL DE INICIAÇÃO CIENTÍFICA (2023-2024), modalidade INICIAÇÃO CIENTÍFICA VOLUNTÁRIA/UNICENTRO",
+    "imagem":  "./assets/certificados/img15.png"
+    }
+
+]
+

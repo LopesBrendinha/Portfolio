@@ -10,7 +10,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css'
                 <ul class="direcao">
                     <li><router-link to="/" @click="closeMenu">Sobre</router-link></li>
                     <li><router-link to="/projetos" @click="closeMenu">Projetos</router-link></li>
-                    <li><router-link to="/cerificacoes" @click="closeMenu">Certificações</router-link></li>
+                    <li><router-link to="/certificacoes" @click="closeMenu">Certificações</router-link></li>
                 </ul>
                 <ul class="social">
                     <li><a href="https://github.com/lopesbrendinha" target="_blank"><i class="bi bi-github"></i></a></li>

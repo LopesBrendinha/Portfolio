@@ -11,5 +11,5 @@ const routes = [
 
 export const router = createRouter({
   history: createWebHistory(),
-  routes, // aqui já usa a const routes
+  routes,
 });

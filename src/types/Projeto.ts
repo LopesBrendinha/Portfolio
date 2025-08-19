@@ -4,7 +4,7 @@ export interface Projeto{
     categoria: 'Flutter' | "React" | "Vue" | "Html e CSS";
     descricaoCurta: string;
     descricaoDetalhada: string;
-    imagens: string[];
+    imagem: string[];
     codigoUrl?: string;
 
 }
