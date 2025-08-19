@@ -1,0 +1,103 @@
+[
+    {
+        "id":1,
+        "titulo": "HortiPrice Mobile",
+        "categoria": "Flutter",
+        "descricaoCurta": "Aplicativo em Flutter para formação de preço de venda na horticultura.",
+        "descricaoDetalhada": "O HortiPrice Mobile é um aplicativo desenvolvido em Flutter com integração ao Firebase, voltado para auxiliar produtores rurais no cálculo do preço de venda justo de seus produtos hortícolas. Ele aplica métodos de custeio como ABC, Absorção e Variável, permitindo que agricultores tenham maior controle financeiro e tomada de decisão baseada em dados. O app busca simplificar processos complexos de gestão e apoiar o agronegócio no contexto da Agricultura 4.0.",
+        "imagens": [
+            "./assets/hortiprice/fig13.png",
+            "./assets/hortiprice/fig14.png",
+            "./assets/hortiprice/fig15.png",
+            "./assets/hortiprice/fig16.png",
+            "./assets/hortiprice/fig17.png",
+            "./assets/hortiprice/fig18.png",
+            "./assets/hortiprice/fig19.png",
+            "./assets/hortiprice/fig20.png",
+            "./assets/hortiprice/fig21.png",
+            "./assets/hortiprice/fig22.png",
+            "./assets/hortiprice/fig35.png",
+            "./assets/hortiprice/fig36.png"
+        ],
+        "codigoUrl": "https://github.com/LopesBrendinha/HortiPrice-Mobile"
+    },
+    {
+        "id":2,
+        "titulo": "Rick And Morty API",
+        "categoria": "Flutter",
+        "descricaoCurta": "App Flutter que consome a API de Rick and Morty para exibir personagens.",
+        "descricaoDetalhada": "Este projeto em Flutter consome a API pública de Rick and Morty para exibir informações detalhadas dos personagens da série, como nome, espécie, gênero, status e localização. Além da listagem, o app oferece tela de detalhes, busca e paginação. Foi desenvolvido como parte de um desafio técnico para aplicar boas práticas de arquitetura (MVC), integração de API REST e organização de código em Flutter.",
+        "imagens": [
+            "./assets/rickandmorty/img1.png",
+            "./assets/rickandmorty/img2.png",
+            "./assets/rickandmorty/img3.png",
+            "./assets/rickandmorty/img4.png",
+            "./assets/rickandmorty/img5.png",
+            "./assets/rickandmorty/img6.png",
+            "./assets/rickandmorty/img7.png",
+            "./assets/rickandmorty/img8.png",
+            "./assets/rickandmorty/img9.png",
+            "./assets/rickandmorty/img10.png"
+        ],
+        "codigoUrl": "https://github.com/LopesBrendinha/kode-start-projeto/tree/desenvolvimento/projeto_final"
+    },
+        {
+        "id":3,
+        "titulo": "Drinks App",
+        "categoria": "Flutter",
+        "descricaoCurta": "App Flutter para explorar bebidas e coquetéis via API pública.",
+        "descricaoDetalhada": "O Drinks App é um projeto mobile desenvolvido em Flutter, que consome uma API de bebidas para exibir informações como nome, imagem, ingredientes, modo de preparo e categoria (alcoólico/não alcoólico). Ele tem como objetivo exercitar o consumo de APIs REST, a criação de interfaces intuitivas e a aplicação de boas práticas de desenvolvimento mobile com Flutter.",
+        "imagens": [
+            "./assets/drinksapp/img1.png",
+            "./assets/drinksapp/img2.png"
+        ],
+        "codigoUrl": "https://github.com/LopesBrendinha/Drinks-App-Flutter"
+    },
+        {
+        "id":4,
+        "titulo": "Queridinho Mood",
+        "categoria": "React",
+        "descricaoCurta": "App React para registro e análise de emoções ao longo do tempo.",
+        "descricaoDetalhada": "O Queridinho Mood é o front-end de um aplicativo desenvolvido em React que facilita o registro diário de emoções por meio de emojis e anotações. Além de armazenar os dados, o app fornece análises que ajudam o usuário a identificar padrões de comportamento e fatores que influenciam seu bem-estar emocional. O objetivo é oferecer uma ferramenta simples, intuitiva e de apoio ao autoconhecimento.",
+        "imagens": [
+            "./assets/queridinhomood/img1.png",
+            "./assets/queridinhomood/img2.png",
+            "./assets/queridinhomood/img3.png",
+            "./assets/queridinhomood/img4.png",
+            "./assets/queridinhomood/img5.png",
+            "./assets/queridinhomood/img6.png",
+            "./assets/queridinhomood/img7.png",
+            "./assets/queridinhomood/img8.png"
+        ],
+        "codigoUrl": "https://github.com/LopesBrendinha/MoodTracker"
+    },
+    {
+        "id":5,
+        "titulo": "Spotify",
+        "categoria": "Html e CSS",
+        "descricaoCurta":  "Clone do Spotify, com tela principal e login.",
+        "descricaoDetalhada": "Este projeto é uma recriação da interface do Spotify. O projeto também explora a responsividade e boas práticas de estilização, aproximando-se da experiência do usuário real do Spotify.",
+        "imagens": [
+            "./assets/spotify/img1.png",
+            "./assets/spotify/img2.png",
+            "./assets/spotify/img3.png",
+            "./assets/spotify/img4.png",
+            "./assets/spotify/img5.png"
+        ],
+        "codigoUrl": "https://github.com/LopesBrendinha/Projeto-Spotify"
+    },
+    {
+        "id":6,
+        "titulo": "Portifolio",
+        "categoria": "Vue",
+        "descricaoCurta":  "Aplicação desenvolvida em Vue para apresentar meus projetos e trajetória.",
+        "descricaoDetalhada": "Este portfólio foi desenvolvido utilizando Vue.js e Vue Router para estruturar as páginas de Sobre, Projetos e Certificações. O objetivo é centralizar minhas experiências, destacar meus principais trabalhos e proporcionar uma navegação simples e intuitiva. Além de servir como vitrine profissional, o projeto demonstra domínio em criação de interfaces, organização de rotas e boas práticas em desenvolvimento front-end.",
+        "imagens": [
+            "./assets/portfolio/img1.png",
+            "./assets/portfolio/img2.png",
+            "./assets/portfolio/img3.png"
+    
+        ],
+        "codigoUrl": "https://github.com/LopesBrendinha/Projeto-Spotify"
+    }
+]

@@ -1,0 +1,10 @@
+export interface Projeto{
+    id:number;
+    titulo: string;
+    categoria: 'Flutter' | "React" | "Vue" | "Html e CSS";
+    descricaoCurta: string;
+    descricaoDetalhada: string;
+    imagens: string[];
+    codigoUrl?: string;
+
+}
