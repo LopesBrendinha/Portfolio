@@ -103,5 +103,19 @@
     "categoria": "Hard Skill",
     "descricaoCurta": "Programa Institucional de Iniciação Científica (2023-2024), modalidade Iniciação Científica Voluntária/UNICENTRO",
     "imagem": "./assets/certificados/img15.png"
+  },
+  {
+    "id": 16,
+    "titulo": "Minicurso de Soft Skills",
+    "categoria": "Soft Skill",
+    "descricaoCurta": "referente a carga horária de 2 horas, ministrada pela CUBOS ACADEMY",
+    "imagem": "./assets/certificados/img16.png"
+  },
+  {
+    "id": 17,
+    "titulo": "5 ANOS COMO CIENTISTA DE DADOS: EXPERIÊNCIAS E DESAFIOS",
+    "categoria": "Palestra",
+    "descricaoCurta": "ENSINO EXTRACURRICULAR DE PROGRAMAÇÃO DE COMPUTADORES - 6a EDIÇÃO",
+    "imagem": "./assets/certificados/img17.png"
   }
 ]

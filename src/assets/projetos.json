@@ -98,6 +98,36 @@
             "./assets/portfolio/img3.png"
     
         ],
-        "codigoUrl": "https://github.com/LopesBrendinha/Projeto-Spotify"
+        "codigoUrl": "https://github.com/LopesBrendinha/Portfolio"
+    },
+    {
+        "id":7,
+        "titulo": "Protótipo no figma: HortiPrice Mobile",
+        "categoria": "Figma",
+        "descricaoCurta": "Protótipo desenvolvido no Figma para estruturar telas funcionais e intuitivas do HortiPrice Mobile.",
+        "descricaoDetalhada": "O protótipo do HortiPrice Mobile foi criado no Figma com foco em interfaces simples e objetivas, aplicando princípios de UI/UX. O projeto evidencia minha experiência em prototipação, definição de fluxos de navegação e design de interfaces voltadas ao usuário.",
+        "imagens": [
+            "./assets/figmaHortiPrice/img1.png",
+            "./assets/figmaHortiPrice/img2.png",
+            "./assets/figmaHortiPrice/img3.png",
+            "./assets/figmaHortiPrice/img4.png"
+    
+        ],
+        "codigoUrl": "https://www.figma.com/design/vVScNKbc2RXU4kfVQAQlLt/HortiPrice-Mobile?node-id=0-1&p=f&t=DoRVhQjdDWkYLiIu-0"
+    },
+    {
+        "id":8,
+        "titulo": "Protótipo no figma: Projeto do Timothy",
+        "categoria": "Figma",
+        "descricaoCurta": "Protótipo desenvolvido no Figma para estruturar telas modernas e funcionais do Projeto Timothy.",
+        "descricaoDetalhada": "O protótipo do Projeto Timothy foi criado no Figma com foco em interfaces claras e intuitivas, aplicando princípios de UI/UX. O projeto demonstra minha experiência em prototipação, definição de fluxos de navegação e design centrado no usuário.",
+        "imagens": [
+            "./assets/thimoty/img1.png",
+            "./assets/thimoty/img2.png",
+            "./assets/thimoty/img3.png",
+            "./assets/thimoty/img4.png"
+    
+        ],
+        "codigoUrl": "https://www.figma.com/design/pKNgKO8wfvxDVOtHQzyQMf/Fab-Soft-Timoty?node-id=1-2&p=f&t=fzYBua0jRAodINv6-0"
     }
 ]
